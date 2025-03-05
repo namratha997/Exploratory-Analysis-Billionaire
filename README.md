@@ -77,8 +77,6 @@ To present these insights **interactively**, I built a **Streamlit dashboard** w
 - **Dynamic Charts** using **Matplotlib and Seaborn**.  
 - **SQL-Driven Analysis** for **real-time data querying**.  
 
-👉 **[View the Dashboard & Code]()** _(Add your GitHub/Streamlit link here)_  
-
 ---
 
 ## **📌 Key Takeaways**  
